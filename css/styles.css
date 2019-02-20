@@ -1,0 +1,64 @@
+body {
+    background-color: #0B0D0F;
+    font-family: 'Libre Baskerville', serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Libre Franklin', sans-serif;
+    font-weight: 500;
+}
+
+a {
+    color: #eeeeee;
+    text-decoration: none;
+}
+
+nav, header, section {
+    color: #eeeeee;
+    padding: 1em;
+}
+
+header {
+    background-color: #222630;
+}
+
+#AboutMe {
+    background-color: #474F61;
+    clear: both;
+    overflow: hidden;
+}
+
+#AboutMe #Robert img{
+    border: #eeeeee 1px solid;
+}
+
+#AboutMe #Robert figcaption{
+    font-style: italic;
+    font-size: 90%;
+}
+
+#Services {
+    background-color: #3E4554;
+    clear: both;
+}
+
+#ServiceDescriptions {
+    display: flex;
+}
+
+#Clients {
+    background-color: #2B303A;
+    clear: both;
+    padding-bottom: 30px;
+}
+
+#ClientImages {
+    display: flex;
+    justify-content: space-between;
+}
+
+#GetInTouch {
+    background-color: #191c22;
+    display: flex;
+    justify-content: space-between;
+}
