@@ -45,6 +45,7 @@ section h4 {
 
 #ServiceDescriptions figure { 
     text-align: left;
+    width: 33%;
 }
 
 #ServiceDescriptions img {
