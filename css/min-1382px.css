@@ -61,8 +61,16 @@ section h4 {
     flex-wrap: wrap;
 }
 
+#ClientImages div:first-child {
+    margin-left: 40px;
+}
+
+#ClientImages div:last-child {
+    margin-right: 40px;
+}
+
 #ClientImages div img{
-    height: 65px;
+    height: 60px;
 }
 
 #GetInTouch {
